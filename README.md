@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Testing Tool
+- 🔭 I’m currently working on AI Online-Inference/DPDK
 
-- 🌱 Kubernetes/DPDK/Protocol Stack/Performance Profiling
+- 🌱 I’m currently learning Kubernetes/DPDK/Protocol Stack/Performance Profiling
+
+- 👯 I’m looking to collaborate on Windows Client Development
+
 
