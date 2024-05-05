@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AI Online-Inference services in the medical field
 
-- 🌱 I’m currently learning LLM/DPDK/Protocol Stack/Performance Profiling
+- 🌱 I’m currently learning LLM/DPDK/Protocol Stack/Performance Profiling/Kubernetes
 
 - 👯 I’m looking to collaborate on Windows Client Development
